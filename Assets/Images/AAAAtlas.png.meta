@@ -1,0 +1,1988 @@
+fileFormatVersion: 2
+guid: 384f6f0c654627b43a1cd447ebafa94c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AAAAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 4059
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746bfdc03b27eb84f92f2b5478fc5912
+      internalID: 616739884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 2543
+        y: 3858
+        width: 519
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0b5a4e4fc050f4681fc15dd6b8c3b2
+      internalID: -1426436403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 3870
+        width: 264
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68807999159c2f94dab0bf22289335a8
+      internalID: -1832127836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 3846
+        width: 248
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c4409fb190e6444867125d1c3e1971
+      internalID: -1528178412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 3834
+        width: 300
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205aef64f5e171e4b80fc4effc0c0f79
+      internalID: 1157275597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 3838
+        width: 268
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b772015b93b5a4a8619b44987d0109
+      internalID: 522052568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 3802
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b826bd3c728c294cb9306baa7f070cf
+      internalID: 998884487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 3314
+        width: 264
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82cf07cc75c0b742ac18d14a5510d51
+      internalID: 116361472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_8
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 3290
+        width: 304
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8429e8f6808a1c45b9305eb5965fbd1
+      internalID: -1598651602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_9
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 3294
+        width: 300
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2af666005b31d448fce087739b805a
+      internalID: -1165416192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_10
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 3266
+        width: 316
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11cb2254db7fcb4f9a52d24f70ffbc5
+      internalID: 338277921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_11
+      rect:
+        serializedVersion: 2
+        x: 2766
+        y: 3306
+        width: 328
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7dabf6f9fcb7a468214bac4738d071
+      internalID: 152687835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2770
+        width: 324
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325fb82e4d8359e49bc0abb931084e3b
+      internalID: -129717531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_13
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 2754
+        width: 316
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d169fb390e0e74a90c4575611b824f
+      internalID: -1599037818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_14
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2754
+        width: 372
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2d15ebd8bf3204c951f87c055a883a
+      internalID: -1267001075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_15
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 2782
+        width: 372
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc89efd6ed9c04f4a978d427be8ca215
+      internalID: -1646802004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_16
+      rect:
+        serializedVersion: 2
+        x: 2766
+        y: 2754
+        width: 384
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6338beb67b7bf3b4b8b1772943c47f7f
+      internalID: -183369646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_17
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2302
+        width: 212
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7be942d236f8940be2653510607b3a
+      internalID: -1753564281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_18
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2338
+        width: 195
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cb6961bed132a4683f01681d822d6d
+      internalID: 1721445760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_19
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 2306
+        width: 220
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d983047dc4a67489942dad0b57511a
+      internalID: 1088822359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_20
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 2310
+        width: 284
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7c749833392034f81c6dfffe869663
+      internalID: 1346134685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_21
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 2314
+        width: 180
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f877f70bd3de18d4bb702f8532ec3660
+      internalID: 1975760666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_22
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1830
+        width: 220
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1399c8e2febb82a47b1bad1db153179c
+      internalID: -201229790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_23
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1862
+        width: 172
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea61a5184dbb44641a98d58c3a54716a
+      internalID: -1229490596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_24
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1846
+        width: 207
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a225f9107296f4e8d9550281576c60
+      internalID: -1863543731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_25
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1806
+        width: 228
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d841a24c323f14fb8bd4eed13c0d22
+      internalID: -215179125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_26
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 1762
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca7e726654d9fc4185f298108223ce9
+      internalID: -1014904498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_27
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1695
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1e6f9e67f72204b8a6fb139e996fdd
+      internalID: -930908961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_28
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1695
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5327b855d59c1734397a9073fbab05f3
+      internalID: -1898283236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_29
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 1695
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac954d818514ce4eadb8bcb9d226278
+      internalID: 2022715774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_30
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1514
+        width: 108
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b70f9d0805488044a58b4e242a2786b
+      internalID: -1394505611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_31
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1514
+        width: 96
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046526de5cc76ca4b8db69873f26ed0d
+      internalID: -1381586511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_32
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1530
+        width: 228
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe46e37f87e82e24990228d8163bd877
+      internalID: -278996177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_33
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 1522
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4428ce8f082f48f46b1f4e32e2359eb7
+      internalID: -41156476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_34
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1498
+        width: 184
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e795fdd5f00b44885c6717a9774eab
+      internalID: 2141472242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_35
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1522
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fc7ce69e2064b44a7d587d783976b3
+      internalID: 59669845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_36
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 1518
+        width: 271
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51aa7bf9b75d3184f8daf381ab6dcb11
+      internalID: -818161741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_37
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1491
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11619ea92ad93a49835a3fd15dbbaf2
+      internalID: -1369669393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_38
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 1492
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af010332183478c48aab59e300b7da16
+      internalID: 1153528371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_39
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 1495
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babb7fc55513e4e458410e9a0ff69e3f
+      internalID: -852445637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1354
+        width: 256
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab0754022e18254f99ef30e02a77848
+      internalID: 808106203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_41
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 1166
+        width: 268
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a02191a69949954eb3780bd82085ba2
+      internalID: 172451437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_42
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1202
+        width: 266
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0776c9dbf358d9f429544a8849f94781
+      internalID: 1719622409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_43
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1218
+        width: 283
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac73f2ddf447784caad599e350762ec
+      internalID: -2000907752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_44
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1158
+        width: 228
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd268dba15206ab41a310b923360952b
+      internalID: -1477895893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_45
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1206
+        width: 276
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0ec2a2c141e2e4580094e542b430c5
+      internalID: 2098279825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_46
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1150
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7633d13e2c81b42aa3a2b8896c1711
+      internalID: -1951530079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_47
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1150
+        width: 108
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45027b7c5634a74dbf5eaa7f79d646e
+      internalID: 1203707235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_48
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 1086
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499eebd238a084143a764c029299eb64
+      internalID: -943379919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_49
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 814
+        width: 212
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d19e3bce1c5a9448f36fe3c87573ac
+      internalID: 925552977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_50
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 810
+        width: 116
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7745c9f4e62202f43b7a752101e44314
+      internalID: -897919366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_51
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 818
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c71d8c3b993e84180a49fbede1d784
+      internalID: 1475331232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_52
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 814
+        width: 143
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92209e57acaa6eb40b39586671c43dfb
+      internalID: -930690800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_53
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 999
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebed35e2eea6c5d4093c737a6f5f0588
+      internalID: -79869650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_54
+      rect:
+        serializedVersion: 2
+        x: 3598
+        y: 998
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283e66db0fda4a44c8bbee6462ab8c4b
+      internalID: -344013520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 806
+        width: 278
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce447f89063c0a49b9bf472fa32bb6f
+      internalID: 384684587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_56
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 956
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf3f5b059ac7f84d931e979c341b4ec
+      internalID: -240323093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_57
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 794
+        width: 128
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a874592e06bdbe6419b275051daf80a8
+      internalID: -649726658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_58
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 794
+        width: 124
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4dc8592c6b0954d9987b19e0693e2a
+      internalID: 112697828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_59
+      rect:
+        serializedVersion: 2
+        x: 2930
+        y: 786
+        width: 124
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec2f01969eb19842b6c4a3dac94e776
+      internalID: -2080026143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_60
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 794
+        width: 124
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd818535294c45b48b88d3f91208875f
+      internalID: -1698372185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_61
+      rect:
+        serializedVersion: 2
+        x: 3890
+        y: 794
+        width: 206
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b25e8284a76b441b010294175aad66
+      internalID: -94461057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_62
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 934
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e780837c14908124bafdef58e3428304
+      internalID: -995101778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_63
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 775
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10450a4327014f445b904f4772a67496
+      internalID: 1886875177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 486
+        width: 234
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982b7fdd52ed3b146a6f24230163b286
+      internalID: 848701998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_65
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 622
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b836eedc9d9e83448924bf9ee63b1a8
+      internalID: 12251836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_66
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 622
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d078850bc5b5a45a1ced118af11898
+      internalID: -2051867148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_67
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 622
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0194c24a8fa85b74484f65512eaf1c7c
+      internalID: -1845929730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_68
+      rect:
+        serializedVersion: 2
+        x: 4090
+        y: 622
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c77dfcea564ab14fa0f98e2a8ca644d
+      internalID: 1744467755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_69
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 418
+        width: 127
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7e51bb871f2c14e9d5a3ab0c1fbf51
+      internalID: 520863041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_70
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 418
+        width: 124
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afef5efc478c0c5499cb0b93e0675287
+      internalID: 716759077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_71
+      rect:
+        serializedVersion: 2
+        x: 2930
+        y: 418
+        width: 148
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590112694ed238945aa2c5155225e8d7
+      internalID: 954691425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_72
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 418
+        width: 136
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfef47c1457e9c48bb6183be38cdfe2
+      internalID: 1590782070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_73
+      rect:
+        serializedVersion: 2
+        x: 3902
+        y: 442
+        width: 102
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a14e7a06e20e744cbdc2a60834875a7
+      internalID: -436892541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_74
+      rect:
+        serializedVersion: 2
+        x: 3524
+        y: 396
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324b71fa97baa0a4fb87798d69c95c52
+      internalID: -2091445549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_75
+      rect:
+        serializedVersion: 2
+        x: 3550
+        y: 396
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06816d546400ee044a0df53460fd0667
+      internalID: 1983921476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_76
+      rect:
+        serializedVersion: 2
+        x: 3563
+        y: 396
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fb5c2d908c67745a32f66771dd4a4f
+      internalID: 1720991409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_77
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 396
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c62a939e35d3bd42a92e59d511b5624
+      internalID: 313794546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_78
+      rect:
+        serializedVersion: 2
+        x: 3587
+        y: 396
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ac48c6dffc61848a972f4f9f6091cb
+      internalID: 35941854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_79
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 38
+        width: 128
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2495612cfc9454fa01273710bfb165
+      internalID: -905628195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_80
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 38
+        width: 124
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc56da903bbd594b8d3e2db489f03a2
+      internalID: 815581991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_81
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 18
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a2340ab7b82a2478bd660b1cb65906
+      internalID: -955729207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_82
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 0
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1292f7eb6202545b69f9d1c30b5602
+      internalID: 875622824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AAAAtlas_83
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 0
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dbd7217061015429091e1fd1caf544
+      internalID: -183406153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e96d84056e4e899498469ad08a93ed08
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AAAAtlas_0: 616739884
+      AAAAtlas_1: -1426436403
+      AAAAtlas_10: 338277921
+      AAAAtlas_11: 152687835
+      AAAAtlas_12: -129717531
+      AAAAtlas_13: -1599037818
+      AAAAtlas_14: -1267001075
+      AAAAtlas_15: -1646802004
+      AAAAtlas_16: -183369646
+      AAAAtlas_17: -1753564281
+      AAAAtlas_18: 1721445760
+      AAAAtlas_19: 1088822359
+      AAAAtlas_2: -1832127836
+      AAAAtlas_20: 1346134685
+      AAAAtlas_21: 1975760666
+      AAAAtlas_22: -201229790
+      AAAAtlas_23: -1229490596
+      AAAAtlas_24: -1863543731
+      AAAAtlas_25: -215179125
+      AAAAtlas_26: -1014904498
+      AAAAtlas_27: -930908961
+      AAAAtlas_28: -1898283236
+      AAAAtlas_29: 2022715774
+      AAAAtlas_3: -1528178412
+      AAAAtlas_30: -1394505611
+      AAAAtlas_31: -1381586511
+      AAAAtlas_32: -278996177
+      AAAAtlas_33: -41156476
+      AAAAtlas_34: 2141472242
+      AAAAtlas_35: 59669845
+      AAAAtlas_36: -818161741
+      AAAAtlas_37: -1369669393
+      AAAAtlas_38: 1153528371
+      AAAAtlas_39: -852445637
+      AAAAtlas_4: 1157275597
+      AAAAtlas_40: 808106203
+      AAAAtlas_41: 172451437
+      AAAAtlas_42: 1719622409
+      AAAAtlas_43: -2000907752
+      AAAAtlas_44: -1477895893
+      AAAAtlas_45: 2098279825
+      AAAAtlas_46: -1951530079
+      AAAAtlas_47: 1203707235
+      AAAAtlas_48: -943379919
+      AAAAtlas_49: 925552977
+      AAAAtlas_5: 522052568
+      AAAAtlas_50: -897919366
+      AAAAtlas_51: 1475331232
+      AAAAtlas_52: -930690800
+      AAAAtlas_53: -79869650
+      AAAAtlas_54: -344013520
+      AAAAtlas_55: 384684587
+      AAAAtlas_56: -240323093
+      AAAAtlas_57: -649726658
+      AAAAtlas_58: 112697828
+      AAAAtlas_59: -2080026143
+      AAAAtlas_6: 998884487
+      AAAAtlas_60: -1698372185
+      AAAAtlas_61: -94461057
+      AAAAtlas_62: -995101778
+      AAAAtlas_63: 1886875177
+      AAAAtlas_64: 848701998
+      AAAAtlas_65: 12251836
+      AAAAtlas_66: -2051867148
+      AAAAtlas_67: -1845929730
+      AAAAtlas_68: 1744467755
+      AAAAtlas_69: 520863041
+      AAAAtlas_7: 116361472
+      AAAAtlas_70: 716759077
+      AAAAtlas_71: 954691425
+      AAAAtlas_72: 1590782070
+      AAAAtlas_73: -436892541
+      AAAAtlas_74: -2091445549
+      AAAAtlas_75: 1983921476
+      AAAAtlas_76: 1720991409
+      AAAAtlas_77: 313794546
+      AAAAtlas_78: 35941854
+      AAAAtlas_79: -905628195
+      AAAAtlas_8: -1598651602
+      AAAAtlas_80: 815581991
+      AAAAtlas_81: -955729207
+      AAAAtlas_82: 875622824
+      AAAAtlas_83: -183406153
+      AAAAtlas_9: -1165416192
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

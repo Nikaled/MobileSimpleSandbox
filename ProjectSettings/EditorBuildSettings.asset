@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/TestGameplay.unity
+    guid: 278b919dfc59a6a4da0ea8bb115eeaf0
+  - enabled: 1
+    path: Assets/Scenes/MilitaryBase.unity
+    guid: 6667795f65a9443198df42eba83d097c
+  - enabled: 1
+    path: Assets/Scenes/Field.unity
+    guid: d15aeb57852984778bd76f33dd43c658
+  - enabled: 1
+    path: Assets/Scenes/Airport.unity
+    guid: 032d1432aa69447bb97d213d14ae9ccb
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 64dea5f4fddf5664dbfe6d09d139f9a8
+  m_configObjects: {}
